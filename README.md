@@ -3,7 +3,7 @@
 ## Introduction
 The Pac-Men factory allows you to create an infinite number of PacMen by clicking the **"Add PacMan"** button.
 Each PacMan will have its own speed, position and will bounce off the top and side edges. 
-The **"Star Game"** button can be used to make the Pac-Men move and increase their orginal speed.
+The **"Start Game"** button can be used to make the Pac-Men move and increase their orginal speed.
 
 ## Instructions
 * Fork and clone this repository.
