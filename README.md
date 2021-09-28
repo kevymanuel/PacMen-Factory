@@ -12,6 +12,7 @@ The **"Start Game"** button can be used to make the Pac-Men move and increase th
 * Add as many PacMen as you wish.
 * Click **"Start Game"** to start the PacMen moving.
 * Click **"Start Game"** to increase the speed.
+<img src= "PacMan1.png" width='300'/>
 
 ## Future Improvements
 * Add mouth movement to each PacMen
